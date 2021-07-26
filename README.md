@@ -7,10 +7,15 @@ minty mint ~/ticket.txt --name "Moon Flight #1" --description "This ticket serve
 
 > Minted a new NFT:
 > Token ID:              1
+> 
 > Metadata URI:          ipfs://bafybeic3ui4dj5dzsvqeiqbxjgg3fjmfmiinb3iyd2trixj2voe4jtefgq/metadata.json
+> 
 > Metadata Gateway URL:  http://localhost:8080/ipfs/bafybeic3ui4dj5dzsvqeiqbxjgg3fjmfmiinb3iyd2trixj2voe4jtefgq/metadata.json
+> 
 > Asset URI:             ipfs://bafybeihhii26gwp4w7b7w7d57nuuqeexau4pnnhrmckikaukjuei2dl3fq/ticket.txt
+> 
 > Asset Gateway URL:     http://localhost:8080/ipfs/bafybeihhii26gwp4w7b7w7d57nuuqeexau4pnnhrmckikaukjuei2dl3fq/ticket.txt
+> 
 > NFT Metadata:
 > {
 >   "name": "Moon Flight #1",
