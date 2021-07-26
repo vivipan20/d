@@ -1,6 +1,7 @@
 Mint a new NFT
 
-Once you have the local Ethereum network and IPFS daemon running, minting an NFT is incredibly simple. Just specify what you want to tokenize, the name of the NFT, and a description to tell users what the NFT is for:
+Once you have the local Ethereum network and IPFS daemon running, minting an NFT is incredibly simple. 
+Just specify what you want to tokenize, the name of the NFT, and a description to tell users what the NFT is for:
 
 minty mint ~/ticket.txt --name "Moon Flight #1" --description "This ticket serves as proof-of-ownership of a first-class seat on a flight to the moon."
 
