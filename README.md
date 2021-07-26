@@ -30,9 +30,12 @@ minty show 1
 
 Pin IPFS assets for an NFT
 
-The assets for new tokens are stored in a local IPFS repository which is only online while a local IPFS daemon is running. The start-local-environment.sh script starts a local daemon for you if you aren't already running and IPFS daemon. If you are, then the script just uses the daemon you already have.
+The assets for new tokens are stored in a local IPFS repository which is only online while a local IPFS daemon is running. 
+The start-local-environment.sh script starts a local daemon for you if you aren't already running and IPFS daemon. 
+If you are, then the script just uses the daemon you already have.
 
-To make the data highly available without needing to run a local IPFS daemon 24/7, you can request that a Remote Pinning Service like Pinata or nft.storage store a copy of your IPFS data on their IPFS nodes.
+To make the data highly available without needing to run a local IPFS daemon 24/7, you can request that a Remote Pinning Service like Pinata or nft.
+storage store a copy of your IPFS data on their IPFS nodes.
 
 To pin the data for token, use the minty pin command:
 
